@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55" started-at="2017-10-27T16:53:19Z" finished-at="2017-10-27T16:53:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2017-10-27T16:53:19Z" finished-at="2017-10-27T16:53:19Z">
+      <class name="nitika.neimai.demo">
+        <test-method status="PASS" signature="testing()[pri:0, instance:nitika.neimai.demo@1e8b406]" name="testing" duration-ms="2" started-at="2017-10-27T12:53:19Z" finished-at="2017-10-27T12:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- nitika.neimai.demo -->
+      <class name="nitika.neimai.pleasure">
+        <test-method status="PASS" signature="casse()[pri:0, instance:nitika.neimai.pleasure@d2e7d9]" name="casse" duration-ms="13" started-at="2017-10-27T12:53:19Z" finished-at="2017-10-27T12:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- casse -->
+      </class> <!-- nitika.neimai.pleasure -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
